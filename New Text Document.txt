@@ -1,3 +1,3 @@
-int a = 20
-double b = 12.5
-char max = "a"
+int a = 20;
+double b = 12.5;
+char max = "a";
